@@ -1,23 +1,27 @@
-# GitHub Pages Portfolio
+# Daniel Teleginski Camargo
 
-This is a simple portfolio website that I created using GitHub Pages. It is a static website that is hosted on GitHub.
-The website is built using Next.js. The website is responsive and works well on all devices.
+> Senior Software Engineer & Technical Leader with 15+ years of experience building impactful digital products
 
-## Getting Started
+## 👨‍💻 About Me
+I'm a seasoned software engineer based in Orem, Utah, and I am passionate about building robust digital solutions. With experience spanning multiple technologies and frameworks since 2006, I specialize in discovering and delivering solutions that make a real difference for users.
 
-Install dependencies:
+## 🛠️ Tech Stack
+- **Frontend**: Vue.js, React, Angular, TailwindCSS, SvelteKit
+- **Backend**: Laravel, Spring Boot, Node.js, TypeScript, Java, C#
+- **Cloud & Database**: Firebase, Firestore, PostgreSQL, Oracle
+- **Architecture**: GraphQL, RESTful APIs, Microservices
+- **Tools & Practices**: Agile Methodologies, CMMI, Git, Maven
 
-```bash
-npm install
-```
+## 🌟 Highlights
+- 15+ years of experience in software development and technical leadership
+- Expert in product discovery, optimization, and delivery
+- Strong background in enterprise solutions and cloud technologies
+- Experienced in leading and coaching development teams
+- Trilingual: English, Portuguese, and Spanish
 
-Start the server on http://localhost:3000:
+## 📫 Connect With Me
+- LinkedIn: [daniel-teleginski-camargo](https://www.linkedin.com/in/daniel-teleginski-camargo)
 
-```bash
-npm run dev
-```
+---
 
-## GitHub Actions
-
-The website is automatically deployed to GitHub Pages using GitHub Actions. The deployment is triggered when a new
-commit is pushed to the `main` branch.
+💡 *"I feel a real sense of fulfillment and purpose when working with product teams to discover and deliver robust solutions."*
